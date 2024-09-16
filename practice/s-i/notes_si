@@ -1,0 +1,55 @@
+in the name of ALLAH ALMIGHTY
+
+src folder will have components probes and components states
+
+app.js is a component and it is displaying the things
+
+class based components vs function based components
+
+by react we can reuse components very easily 
+
+single-page-framework
+
+index.html---->also an entry point
+
+index.js---->entry point
+
+app.js is our whole site
+
+create react app---you will start developing the site from the app.js file
+
+app.js--->we will edit this file
+
+components:
+
+function-based (new trend)
+
+class-based
+
+function based:
+
+function(){
+return(
+//jsx
+)
+}
+
+everything in return is called as jsx
+
+everything in the return will be displayed on the page
+
+jsx will have all the html. 
+
+we can use js with the same html in jsx 
+
+class not allowed
+
+we use className in html in jsx
+
+we can only return a single tag from the return func of app()
+
+jsx only return 1 fragment from the app.js file
+
+next we will study about the components in more detail
+
+

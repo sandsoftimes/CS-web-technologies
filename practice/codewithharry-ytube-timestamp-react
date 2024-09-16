@@ -1,0 +1,48 @@
+in the name of ALLAH ALMIGHTY 
+
+video 5: setup+adding bootstrap
+
+video 6: props
+
+props are properties
+
+import React from 'react'
+
+export default function Navbark(props){
+return (
+	<nav>{props.title}</nav>
+	<nav>{props.name}</nav>
+)
+Navbar.propTypes={
+title: PropTypes.string.isRequired,
+aboutText: PropTypes.string.isRequired}
+} 
+
+Navbar.defaultProps={
+title='set title here',
+aboutText:'About'}
+
+import Navbark from './components/Navbark.js'
+
+main(){
+<Navbark title='hello' name='soho'>
+}
+
+props are properties
+
+
+video 7: understanding state and handling events in react
+
+use state hook
+
+state variable
+
+text  by default value
+
+settext function to update text
+
+
+
+
+
+
